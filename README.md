@@ -10,7 +10,6 @@
 - when prompted to customise new password, use: "admin", 
 - Click on disable anonymous access and then Finish.
 - 
- 
 
 ## Install Apache Maven
 - Create a linux2 instance (ensure to not select the 2023 linux ami) with t2.micro type. 
